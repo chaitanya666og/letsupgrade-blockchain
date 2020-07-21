@@ -1,0 +1,22 @@
+Q.1 What is your understanding of blockchain?
+A.1 i believe it is a new way of storing data that promises more additional faeatures rather than storing information on a ledger. it also keeps anonymity. 
+It can be done through cryptography and modern computer languages. It removes dependence on a third party. It is key in changing tradintional banking. It keeps more trust due to the decentralised way.
+
+Q.2 What is the main problem blockchain tried to solve?
+A.2 After the 2008 crisis, it came into existence. The feature which the internet fails to provide like security and authenticity is provided by a blockchain.
+
+Q.3 Features of blockchain
+ Verifiable
+ Unchangeable
+ Tamper – proof
+ Immutable
+
+Q.4 What all things a block contains?
+ Block number
+ Transaction records (merkle root)
+ Previous block signature
+ Mining key (Nonce)
+
+Q.5 How is the verifiablity of blockchain attained?
+A.5 It is a attained by a decntralised model of how blockchain works. dependence on network of people is more trustworthy and tampering of data becomes difficult when 
+when something is stored among a group of people.
